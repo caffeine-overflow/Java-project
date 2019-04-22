@@ -1,2 +1,2 @@
 # Java-project
-Java sem 1 project 
+Repository for a store checkout java program. sem 1 project.
